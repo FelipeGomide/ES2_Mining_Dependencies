@@ -1,4 +1,5 @@
-TP: Mineração de Repositórios de Software
+﻿# Mineração de Repositórios de Software
+Trabalho prático da disciplina Engenharia de Software II.
 
 ## Objetivo 
 
@@ -14,7 +15,7 @@ Os resultados são apresentados em um relatório HTML, contendo gráficos e tabe
 
 - Apresentação de resultados: relatório HTML, contendo gráficos e tabelas interativas que destacam métricas de dependências.
 
-- Tecnologias utilizadas: pydriller, GitHub API, PyPI API, typer, click, python-fire, argparse
+- Tecnologias utilizadas: pydriller, PyPI API, typer, click, python-fire, argparse
 
 ## Membros
 
